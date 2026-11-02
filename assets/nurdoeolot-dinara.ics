@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chakyruu//Wedding//KY
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:nurdoeolot-dinara-20261123@chakyruu
+DTSTAMP:20261102T100000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Нурдөөлөт & Динара — Үйлөнүү тою
+LOCATION:Баястан Гранд
+DESCRIPTION:Той ээлери: Шарабидин жана Гулзинат. Башталыш убактысы кошумча билдирилет.
+END:VEVENT
+END:VCALENDAR
